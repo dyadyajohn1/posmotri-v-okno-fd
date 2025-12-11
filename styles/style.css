@@ -312,7 +312,7 @@ ol {
   border: 1px solid #fff;
 }
 
-.content__video-card-description-container:hover {
+.content__card-link:hover {
   text-decoration: underline;
 }
 
